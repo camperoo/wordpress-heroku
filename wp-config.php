@@ -22,7 +22,7 @@ $db = parse_url($_ENV["DATABASE_URL"]);
 define('DB_NAME', $_ENV["DATABASE_NAME"]);
 
 /** MySQL database username */
-define('DB_USER', $_ENV["DATABASE_USER"]]);
+define('DB_USER', $_ENV["DATABASE_USER"]);
 
 /** MySQL database password */
 define('DB_PASSWORD', $_ENV["DATABASE_PASSWORD"]);
