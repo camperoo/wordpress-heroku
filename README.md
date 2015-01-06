@@ -6,7 +6,7 @@ This project is a template for installing and running [WordPress](http://wordpre
 
 Clone the repository from Github
 
-    $ git clone git://github.com/mhoofman/wordpress-heroku.git
+    $ git clone git://github.com/camperoo/wordpress-heroku.git
 
 With the [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), create your app
 
@@ -125,9 +125,9 @@ bin/
 
 ## Wiki
 
-* [Custom Domains](https://github.com/mhoofman/wordpress-heroku/wiki/Custom-Domains)
-* [Media Uploads](https://github.com/mhoofman/wordpress-heroku/wiki/Media-Uploads)
-* [Postgres Database Syncing](https://github.com/mhoofman/wordpress-heroku/wiki/Postgres-Database-Syncing)
-* [Setting Up a Local Environment on Linux (Apache)](https://github.com/mhoofman/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Linux-\(Apache\))
-* [Setting Up a Local Environment on Mac OS X](https://github.com/mhoofman/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Mac-OS-X)
-* [More...](https://github.com/mhoofman/wordpress-heroku/wiki)
+* [Custom Domains](https://github.com/camperoo/wordpress-heroku/wiki/Custom-Domains)
+* [Media Uploads](https://github.com/camperoo/wordpress-heroku/wiki/Media-Uploads)
+* [Postgres Database Syncing](https://github.com/camperoo/wordpress-heroku/wiki/Postgres-Database-Syncing)
+* [Setting Up a Local Environment on Linux (Apache)](https://github.com/camperoo/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Linux-\(Apache\))
+* [Setting Up a Local Environment on Mac OS X](https://github.com/camperoo/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Mac-OS-X)
+* [More...](https://github.com/camperoo/wordpress-heroku/wiki)
