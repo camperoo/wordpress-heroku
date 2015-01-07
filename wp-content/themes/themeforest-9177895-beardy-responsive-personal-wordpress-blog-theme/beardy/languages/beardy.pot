@@ -1,0 +1,971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rey 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Rey Marval <rey.marval@gmail.com>\n"
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: beardy/footer.php:42
+msgid " is powered by %s"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Facebook URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Google Plus URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Instagram URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Name"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Photo"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Sit-in"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Tumblr URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Partner Twitter URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#1 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#10 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#10 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#10 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Facebook URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Google Plus URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Instagram URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Name"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Photo"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Sit-in"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Tumblr URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Partner Twitter URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#2 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Facebook URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Google Plus URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Instagram URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Name"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Photo"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Sit-in"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Tumblr URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Partner Twitter URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#3 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Facebook URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Google Plus URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Instagram URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Name"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Photo"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Sit-in"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Tumblr URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Partner Twitter URL"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#4 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#5 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#5 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#5 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#6 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#6 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#6 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#7 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#7 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#7 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#8 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#8 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#8 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#9 Review"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#9 Social Icon"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "#9 Social Url"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/extras.php:146
+msgid "%1$s"
+msgstr ""
+
+#. Text in function
+#: beardy/comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/extras.php:148
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "10"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "11"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "12"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "13"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "14"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "15"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "16"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "17"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "18"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "19"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "2"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "20"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "3"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "4"
+msgstr ""
+
+#. Text in echo
+#: beardy/404.php:15
+msgid "404 Error"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "5"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "6"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "7"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "8"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "9"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/extras.php:138
+msgid "<cite class=\"fn\">%s</cite> <span class=\"author-tag\">Author</span>"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/template-tags.php:26
+msgid "<span class=\"meta-nav\"><i class=\"fa fa-long-arrow-left\"></i></span> Older posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "A subtitle"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Accent Color"
+msgstr ""
+
+#. Text in echo
+#: beardy/archive.php:52
+msgid "All posts by"
+msgstr ""
+
+#. Text in echo
+#: beardy/archive.php:52
+msgid "All posts in"
+msgstr ""
+
+#. Text in echo
+#: beardy/archive.php:52
+msgid "All posts tagged as"
+msgstr ""
+
+#. Text in echo
+#: beardy/archive.php:52
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: beardy/archive.php:52
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Behance"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Bellow"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Colors"
+msgstr ""
+
+#. Text in echo
+#: beardy/comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: beardy/comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Comments position"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Disable Home Featured Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Disable Reviews"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Disable Sticky Header"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Disable sidebar on Single Pages?"
+msgstr ""
+
+#. Text in function
+#: beardy/content.php:49
+#: beardy/content-image.php:49
+#: beardy/content-gallery.php:56
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: beardy/template-contact.php:91
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Featured posts height"
+msgstr ""
+
+#. Text in function
+#: beardy/functions.php:1
+msgid "Footer Widget 1"
+msgstr ""
+
+#. Text in function
+#: beardy/functions.php:1
+msgid "Footer Widget 2"
+msgstr ""
+
+#. Text in function
+#: beardy/functions.php:1
+msgid "Footer Widget 3"
+msgstr ""
+
+#. Text in function
+#: beardy/functions.php:1
+msgid "Footer Widget 4"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "GitHub"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Google+"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Home Featured Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Home Latest Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "How many posts to load?"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Instagram"
+msgstr ""
+
+#. Text in echo
+#: beardy/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. Text in echo
+#: beardy/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: beardy/template-home.php:64
+#: beardy/index.php:21
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Least (250px)"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Location Marker Content"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Lower (450px)"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Map Location"
+msgstr ""
+
+#. Text in echo
+#: beardy/template-contact.php:97
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Most Commented Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Most Viewed Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Much Lower (350px)"
+msgstr ""
+
+#. Text in echo
+#: beardy/template-contact.php:85
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: beardy/comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/template-tags.php:30
+msgid "Newer posts <span class=\"meta-nav\"><i class=\"fa fa-long-arrow-right\"></i></span>"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Normal (520px)"
+msgstr ""
+
+#. Text in echo
+#: beardy/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/extras.php:156
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: beardy/content.php:27
+#: beardy/content-image.php:27
+#: beardy/content-gallery.php:34
+#: beardy/content-page.php:16
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "PayPal"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: beardy/template-contact.php:1
+msgid "Please enter a message."
+msgstr ""
+
+#. Text in function
+#: beardy/template-contact.php:1
+msgid "Please enter your email address."
+msgstr ""
+
+#. Text in function
+#: beardy/template-contact.php:1
+msgid "Please enter your name."
+msgstr ""
+
+#. Text in echo
+#: beardy/inc/template-tags.php:54
+msgid "Post navigation"
+msgstr ""
+
+#. Text in echo
+#: beardy/inc/template-tags.php:22
+msgid "Posts navigation"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Posts to display"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Posts to display on desktops?"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Posts to display on landscape tabs?"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Posts to display on netbooks?"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Posts to display on smartphones?"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Posts to display on tablets?"
+msgstr ""
+
+#. Text in function
+#: beardy/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Random Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Reviews"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Reviews Introduction"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Reviews Title"
+msgstr ""
+
+#. Text in echo
+#: beardy/search.php:16
+msgid "Search results for"
+msgstr ""
+
+#. Text in echo
+#: beardy/searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#. Text in echo
+#: beardy/template-contact.php:104
+msgid "Send Email"
+msgstr ""
+
+#. Text in echo
+#: beardy/content.php:36
+#: beardy/content-image.php:36
+#: beardy/content-gallery.php:43
+msgid "Share on Facebook"
+msgstr ""
+
+#. Text in echo
+#: beardy/archive.php:52
+msgid "Showing"
+msgstr ""
+
+#. Text in function
+#: beardy/functions.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Single Pages Options"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in echo
+#: beardy/template-contact.php:79
+msgid "Sorry, an error occured."
+msgstr ""
+
+#. Text in echo
+#: beardy/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: beardy/template-home.php:53
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Sorted by Title"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "SoundCloud"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Team Members"
+msgstr ""
+
+#. Text in echo
+#: beardy/template-contact.php:75
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#. Text in echo
+#: beardy/404.php:14
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "The Latest Posts"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "To the side"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Tumblr"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Upload a Background Image"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Upload a Header Image"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Upload a logo"
+msgstr ""
+
+#. Text in function
+#: beardy/template-contact.php:1
+msgid "You entered an invalid email address."
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Your Location Latitude"
+msgstr ""
+
+#. Text in function
+#: beardy/inc/customizer.php:1
+msgid "Your Location Longitude"
+msgstr ""
+
+#. Text in echo
+#: beardy/inc/extras.php:141
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: beardy/footer.php:42
+msgid "http://wordpress.org/"
+msgstr ""
+
+#. Text in echo
+#: beardy/content.php:40
+#: beardy/content-image.php:40
+#: beardy/content-gallery.php:47
+msgid "or Google+"
+msgstr ""
+
+#. Text in echo
+#: beardy/content.php:39
+#: beardy/content-image.php:39
+#: beardy/content-gallery.php:46
+msgid "or Pinterest"
+msgstr ""
+
+#. Text in echo
+#: beardy/content.php:37
+#: beardy/content-image.php:37
+#: beardy/content-gallery.php:44
+msgid "or Twitter"
+msgstr ""
