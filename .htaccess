@@ -9,5 +9,4 @@ RewriteRule . /index.php [L]
 #
 RewriteBase /parenting/
 </IfModule>
-
 # END WordPress
