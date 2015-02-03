@@ -20,18 +20,22 @@ $db = parse_url($_ENV["DATABASE_URL"]);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', $_ENV["DATABASE_NAME"]);
+#define('DB_NAME', 'dndcj8kbokvlu');
 #define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
 define('DB_USER', $_ENV["DATABASE_USER"]);
+#define('DB_USER', 'djnkocdthmkiqd');
 #define('DB_USER', 'wordpress');
 
 /** MySQL database password */
 define('DB_PASSWORD', $_ENV["DATABASE_PASSWORD"]);
+#define('DB_PASSWORD', 'gi8zy2kgpcSzVvufLL61HhX-YL');
 #define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', $_ENV["DATABASE_HOST"]);
+#define('DB_HOST', 'ec2-54-221-227-25.compute-1.amazonaws.com:5432');
 #define('DB_HOST', 'localhost:15432');
 
 /** Database Charset to use in creating database tables. */
@@ -75,7 +79,6 @@ $table_prefix  = 'wp_';
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
  * in their development environments.
  */
-define('WP_DEBUG', false);
 
 /* That's all, stop editing! Happy blogging. */
 
